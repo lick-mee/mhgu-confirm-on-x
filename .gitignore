@@ -1,0 +1,8 @@
+# Build output
+out/
+dist/
+__pycache__/
+# Game data stays local
+*.arc
+*.tex
+*.gfd
