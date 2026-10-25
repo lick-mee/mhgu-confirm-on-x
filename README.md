@@ -1,4 +1,6 @@
-# Confirm on X
+<p align="center">
+  <img src="docs/banner.png" alt="Confirm on X: menus confirm with Cross in Monster Hunter Generations Ultimate on MHGU Recomp" width="100%">
+</p>
 
 <p align="center">
   <a href="https://github.com/lick-mee/mhgu-confirm-on-x/releases/latest"><b>Download the latest release</b></a>
